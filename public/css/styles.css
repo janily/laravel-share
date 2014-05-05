@@ -1,0 +1,9 @@
+body{width:60%; margin:auto; background:#dedede}
+h2{font-size:40px; text-align:center; font-family: Tahoma,Arial,sans-serif}
+h3{font-size:25px; border-radius:4px; font-family: Tahoma,Arial,sans-serif; text-align:center; width:100%}
+h3.error{border:3px solid #d00; background-color: #f66; color:#d00 }
+h3.success{border:3px solid #0d0; background-color:#0f0; color:#0d0}
+p{font-size:25px; font-weight: bold; color: black; font-family: Tahoma,Arial,sans-serif}
+ul{float:left;width:100%;list-style:none}
+li{float:left;margin-right:10px}
+input{float:left; width:100%; border-radius:13px; font-size:20px; height:30px; border:10px 0 10px 0; margin-bottom:20px}
